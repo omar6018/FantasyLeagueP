@@ -1,2 +1,2 @@
-# StartTry
+# FantasyLeague
 Software architecture
